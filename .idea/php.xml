@@ -5,7 +5,6 @@
       <path value="$PROJECT_DIR$/../../../.resources/phpunit-6.0.7.phar" />
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/psr/log" />
-      <path value="$PROJECT_DIR$/vendor/pendenga/log" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
