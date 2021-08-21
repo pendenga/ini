@@ -1,5 +1,5 @@
 {
-    "name": "pendenga/template-php",
+    "name": "pendenga/ini",
     "description": "",
     "authors": [
         {
@@ -23,12 +23,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Pendenga\\TemplatePHP\\": "src/"
+            "Pendenga\\Ini\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Pendenga\\TemplatePHP\\Test\\": "test/"
+            "Pendenga\\Ini\\Test\\": "test/"
         }
     }
 }
